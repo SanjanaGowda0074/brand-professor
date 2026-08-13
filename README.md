@@ -15,7 +15,7 @@ Hosted on **GitHub Pages**:
 `https://SanjanaGowda0074.github.io/brand-professor/`
 
 ### 2. Source code
-This repository is the full source. Share the GitHub repo link in your submission.
+This repository is the fully open source. Share the GitHub repo link in your submission.
 
 ### 3. Technology stack
 
