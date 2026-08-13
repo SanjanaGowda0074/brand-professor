@@ -20,7 +20,6 @@ This repository is the full source. Share the GitHub repo link in your submissio
 ### 3. Technology stack
 
 | Layer | Choice |
-|---|---|
 | Framework | **Next.js 16** (App Router) + **TypeScript** |
 | UI | **Tailwind CSS v4** + Brand Professor design tokens |
 | 3D | **Three.js** + **React Three Fiber** + **Drei** |
@@ -33,7 +32,7 @@ This repository is the full source. Share the GitHub repo link in your submissio
 
 - Brand research from [brandprofessor.in](https://brandprofessor.in/) and [brandprofesor.com](https://brandprofesor.com/)
 - Official logo from Brand Professor’s existing brand assets
-- Contact: Bangalore · +91 99011 19191 · WhatsApp
+
 
 ### 5. Design & development approach
 
@@ -62,28 +61,6 @@ Open [http://localhost:3000](http://localhost:3000).
 ```bash
 npm run build
 ```
-
-Static files are written to the `out/` folder (ready for GitHub Pages).
-
----
-
-## Host on GitHub Pages
-
-1. Push to `main` on this repository  
-2. Repo **Settings → Pages → Source: GitHub Actions**  
-3. Wait for the **Deploy to GitHub Pages** workflow  
-4. Site URL: `https://SanjanaGowda0074.github.io/brand-professor/`
-
----
-
-## Contact (Brand Professor)
-
-- Phone: +91 99011 19191  
-- WhatsApp: https://wa.me/919901119191  
-- HQ: Bangalore, Karnataka, India  
-
----
-
 ## Project structure
 
 ```
