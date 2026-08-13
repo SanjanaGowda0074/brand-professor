@@ -37,11 +37,11 @@ AI tools were used selectively throughout the development process to support ide
 
 **AI tools/features used during developmen:**
 
-* **ChatGPT — brainstorming, architecture discussions, code assistance, debugging, and content refinement.
-* **Claude — UI/UX ideas, component structuring, and development assistance.
+* **ChatGPT** — brainstorming, architecture discussions, code assistance, debugging, and content refinement.
+* **Claude** — UI/UX ideas, component structuring, and development assistance.
 * **Google Gemini** — research, alternative implementation approaches, and troubleshooting.
 * **GitHub Copilot** — code completion, boilerplate generation, and development productivity.
-* **Spline – Interactive 3D elements and animations.
+* **Spline** – Interactive 3D elements and animations.
 
 The final website combines AI-assisted development with manual coding, design decisions, customization, testing, and integration of the interactive experience.
 
