@@ -31,8 +31,22 @@ This repository is the fully open source.
 - Brand research from [brandprofessor.in](https://brandprofessor.in/) and [brandprofesor.com](https://brandprofesor.com/)
 - Official logo from Brand Professor’s existing brand assets
 
+### 5. AI Tools & Development Assistance
 
-### 5. Design & development approach
+AI tools were used selectively throughout the development process to support ideation, UI/UX exploration, code assistance, debugging, and refinement. The website was not entirely AI-generated; AI was used as a development aid alongside manual design decisions, implementation, testing, and customization.
+
+**AI tools/features used during developmen:**
+
+* **ChatGPT — brainstorming, architecture discussions, code assistance, debugging, and content refinement.
+* **Claude — UI/UX ideas, component structuring, and development assistance.
+* **Google Gemini** — research, alternative implementation approaches, and troubleshooting.
+* **GitHub Copilot** — code completion, boilerplate generation, and development productivity.
+* **Spline – Interactive 3D elements and animations.
+
+The final website combines AI-assisted development with manual coding, design decisions, customization, testing, and integration of the interactive experience.
+
+
+### 6. Design & development approach
 
 **Concept:** *Brand Professor Experience Engine* — light green/white, technology-forward production house. Logo and tagline *Experience · Excellence · Exhibition* stay central.
 
@@ -44,6 +58,7 @@ This repository is the fully open source.
 6. Dispatch / WhatsApp close  
 
 Performance: dynamic 3D import, hero 3D compact on mobile / off on reduced-motion, lightweight geometries.
+
 
 ---
 
